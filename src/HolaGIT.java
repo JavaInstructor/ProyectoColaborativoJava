@@ -6,5 +6,13 @@ public class HolaGIT {
 		System.out.println("Proyecto inial para trabajo colaborativo.");
 
 	}
+	public static void contarHastacinco() {
+		for (int i =1; i<= 5 ; i++) {
+	
+	}
+    
+	System.out.println(i);
+  }
 
 }
+
